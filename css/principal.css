@@ -1,0 +1,92 @@
+
+body{
+    background-color: #001724;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    background-color: #001724;
+}
+
+h1{
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.form-label{
+    color: white;
+}
+.form-check-label{
+    color: white;
+}
+
+.invalid-feedback{
+    color: red;
+}
+.mb-3{
+    color: white;
+}
+
+#consejo_correo{
+    color: white;
+}
+
+.nombre{
+    font-size: 30px;
+}
+
+.col{
+    color:#989FA9;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#texto_collapse{
+    color: black;
+}
+
+#collapse{
+    margin-top: 25px;
+}
+
+#texto_nav{
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:bisque;
+}
+
+#texto_offcanva{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cards{
+    margin-top: 20px;
+}
+
+#texto_evento{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-text{
+    font-family:sans-serif;
+    font-size: 15px;
+    color:#001724 ;
+}
+
+#texto_evento2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#accordion{
+    margin-top: 30px;
+}
+
+.accordion-body{
+    color: black;
+    font-family: Calibri;
+}
